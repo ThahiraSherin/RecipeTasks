@@ -1,3 +1,6 @@
+URL for published documentation
+https://documenter.getpostman.com/view/45894497/2sB34oDHpt
+
 # 🍽️ RecipeTasks
 
 A complete CRUD (Create, Read, Update, Delete) **Recipe Management API** built using **Node.js**, **Express.js**, and **MongoDB (Mongoose)**. This project follows the **MVC architectural pattern** and is tested via **Postman**.
